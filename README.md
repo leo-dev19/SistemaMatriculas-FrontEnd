@@ -10,10 +10,4 @@
 - **Iniciar en modo desarrollador:** `npm run dev` o `yarn dev`
 - Abrir el navegador: `http://localhost:3039`
 
-## Grupo de trabajo
-
-| **Cibertec**                | Desarrollo de Servicios Web I                                                                           |
-| :-------------------------- | :------------------------------------------------------------------------------------------------------ |
-| -                           | **Jerson**                                                                                            |
-| -                           | **Antony**                                                                                |
-| -                           | **Luis**                                                                                     |
+                                                                                |
