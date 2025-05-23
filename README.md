@@ -8,6 +8,4 @@
 - Versión recomendada: `Node.js v20.x`
 - **Instalar dependencias:** `npm i` o `yarn install`
 - **Iniciar en modo desarrollador:** `npm run dev` o `yarn dev`
-- Abrir el navegador: `http://localhost:3039`
-
-                                                                                |
+- Abrir el navegador: `http://localhost:3039`                                                                  
